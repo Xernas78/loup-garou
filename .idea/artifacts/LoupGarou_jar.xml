@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LoupGarou:jar">
+    <output-path>$PROJECT_DIR$/../../MC Servers/1.20.2/plugins</output-path>
+    <root id="archive" name="LoupGarou.jar">
+      <element id="module-output" name="LoupGarou" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
